@@ -1,1 +1,1 @@
-# adidas-bot
+# addidas-bot
